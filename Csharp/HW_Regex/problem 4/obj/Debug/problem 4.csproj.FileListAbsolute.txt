@@ -1,0 +1,5 @@
+C:\Users\HP1\Desktop\PIK\HW_Regex\problem 4\bin\Debug\problem 4.exe.config
+C:\Users\HP1\Desktop\PIK\HW_Regex\problem 4\bin\Debug\problem 4.exe
+C:\Users\HP1\Desktop\PIK\HW_Regex\problem 4\bin\Debug\problem 4.pdb
+C:\Users\HP1\Desktop\PIK\HW_Regex\problem 4\obj\Debug\problem 4.exe
+C:\Users\HP1\Desktop\PIK\HW_Regex\problem 4\obj\Debug\problem 4.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP1\Desktop\PIK\HW_Strings\HW_Strings\obj\Debug\problem 1.csprojResolveAssemblyReference.cache
+C:\Users\HP1\Desktop\PIK\HW_Strings\HW_Strings\bin\Debug\HW_Strings.exe.config
+C:\Users\HP1\Desktop\PIK\HW_Strings\HW_Strings\bin\Debug\HW_Strings.exe
+C:\Users\HP1\Desktop\PIK\HW_Strings\HW_Strings\bin\Debug\HW_Strings.pdb
+C:\Users\HP1\Desktop\PIK\HW_Strings\HW_Strings\obj\Debug\HW_Strings.exe
+C:\Users\HP1\Desktop\PIK\HW_Strings\HW_Strings\obj\Debug\HW_Strings.pdb

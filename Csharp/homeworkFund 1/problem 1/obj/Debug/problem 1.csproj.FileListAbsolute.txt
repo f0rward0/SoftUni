@@ -1,0 +1,3 @@
+C:\Users\HP1\Desktop\PIK\homeworkFund 1\homeworkFund 1\bin\Debug\homeworkFund 1.exe.config
+C:\Users\HP1\Desktop\PIK\homeworkFund 1\homeworkFund 1\obj\Debug\homeworkFund 1.exe
+C:\Users\HP1\Desktop\PIK\homeworkFund 1\homeworkFund 1\obj\Debug\homeworkFund 1.pdb

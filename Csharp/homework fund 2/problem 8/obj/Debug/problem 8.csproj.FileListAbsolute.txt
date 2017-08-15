@@ -1,0 +1,6 @@
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 8\bin\Debug\problem 8.exe.config
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 8\obj\Debug\problem 8.csprojResolveAssemblyReference.cache
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 8\bin\Debug\problem 8.exe
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 8\bin\Debug\problem 8.pdb
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 8\obj\Debug\problem 8.exe
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 8\obj\Debug\problem 8.pdb

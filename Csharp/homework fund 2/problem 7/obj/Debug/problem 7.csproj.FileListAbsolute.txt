@@ -1,0 +1,6 @@
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 7\bin\Debug\problem 7.exe.config
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 7\obj\Debug\problem 7.csprojResolveAssemblyReference.cache
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 7\bin\Debug\problem 7.exe
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 7\bin\Debug\problem 7.pdb
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 7\obj\Debug\problem 7.exe
+C:\Users\HP1\Desktop\PIK\homework fund 2\problem 7\obj\Debug\problem 7.pdb

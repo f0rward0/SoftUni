@@ -1,0 +1,6 @@
+C:\Users\HP1\Desktop\PIK\programming basic exam\programming basic exam\bin\Debug\programming basic exam.exe.config
+C:\Users\HP1\Desktop\PIK\programming basic exam\programming basic exam\bin\Debug\programming basic exam.exe
+C:\Users\HP1\Desktop\PIK\programming basic exam\programming basic exam\bin\Debug\programming basic exam.pdb
+C:\Users\HP1\Desktop\PIK\programming basic exam\programming basic exam\obj\Debug\programming basic exam.csprojResolveAssemblyReference.cache
+C:\Users\HP1\Desktop\PIK\programming basic exam\programming basic exam\obj\Debug\programming basic exam.exe
+C:\Users\HP1\Desktop\PIK\programming basic exam\programming basic exam\obj\Debug\programming basic exam.pdb

@@ -1,0 +1,5 @@
+C:\Users\HP1\Desktop\PIK\Homework methods\problem 5\bin\Debug\problem 5.exe.config
+C:\Users\HP1\Desktop\PIK\Homework methods\problem 5\bin\Debug\problem 5.exe
+C:\Users\HP1\Desktop\PIK\Homework methods\problem 5\bin\Debug\problem 5.pdb
+C:\Users\HP1\Desktop\PIK\Homework methods\problem 5\obj\Debug\problem 5.exe
+C:\Users\HP1\Desktop\PIK\Homework methods\problem 5\obj\Debug\problem 5.pdb
